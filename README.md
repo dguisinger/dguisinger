@@ -3,7 +3,7 @@
 AWS Certified Solutions Architect • DevOps Engineer • .NET Specialist  
 Building scalable, secure, and cost-optimized cloud systems with AWS and C#.
 
-- 🧩 Creator of **[Oproto.FluentDynamoDb](https://github.com/Oproto/Oproto.FluentDynamoDb)** — a high-performance .NET DynamoDB framework with source generation, LINQ-style querying, and encrypted fields  
+- 🧩 Creator of **[Oproto.FluentDynamoDb](https://github.com/Oproto/oproto-fluent-dynamodb)** — a high-performance .NET DynamoDB framework with source generation, LINQ-style querying, and encrypted fields  
 - 🧠 Experienced in **serverless architectures**, **CI/CD automation**, and **cloud cost optimization**  
 - 🔐 Certified in **AWS Solutions Architect – Professional**, **DevOps Engineer – Professional**, and **Security Specialty**
 
