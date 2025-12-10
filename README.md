@@ -5,8 +5,8 @@ Building scalable, secure, and cost-optimized cloud systems with AWS and C#.
 
 - 🧩 Creator of:
   - **[Oproto.FluentDynamoDb](https://github.com/Oproto/fluent-dynamodb)** — a high-performance .NET DynamoDB framework with source generation, LINQ-style querying, and encrypted fields
-  - **[Oproto.LambdaOpenApi](https://github.com/Oproto/lambda-openapi]** - OpenAPI spec generator for AWS Lambda Annotations projects
-  - **[Oproto.LambdaGraphQL](https://github.com/Oproto/lambda-graphql]** - AWS AppSync GraphQL schema generator & integrations for AWS Lambda Annotations project
+  - **[Oproto.LambdaOpenApi](https://github.com/Oproto/lambda-openapi)** - OpenAPI spec generator for AWS Lambda Annotations projects
+  - **[Oproto.LambdaGraphQL](https://github.com/Oproto/lambda-graphql)** - AWS AppSync GraphQL schema generator & integrations for AWS Lambda Annotations project
 - 🧠 Experienced in **serverless architectures**, **CI/CD automation**, and **cloud cost optimization**  
 - 🔐 Certified in **AWS Solutions Architect – Professional**, **DevOps Engineer – Professional**, and **Security Specialty**
 
@@ -29,3 +29,18 @@ I provide consulting and implementation services to help teams modernize applica
 - 🌐 [danguisinger.com](https://danguisinger.com)
 - 💼 [LinkedIn](https://linkedin.com/in/danguisinger)
 - 🧑‍💻 [Bluesky](https://danguisinger.bsky.social)
+
+  Your support helps:
+- Fund continued maintenance of the Oproto open source ecosystem
+- Keep libraries AOT-compatible and aligned with new AWS features
+- Improve documentation, samples, and test coverage
+- Sustain long-term open-source availability
+
+## ❤️ Support my Projects
+You can support my projects in one of two ways:
+
+**👉 [GitHub Sponsors](https://github.com/sponsors/dguisinger)** — Recurring support for those who want to help sustain long-term development.
+
+**👉 [Buy Me a Coffee](https://buymeacoffee.com/danguisinger)** — A simple, one-time "thanks" for helping you ship faster.
+
+Every bit of support helps keep the projects healthy, actively maintained, and open for the community. Thank you!
